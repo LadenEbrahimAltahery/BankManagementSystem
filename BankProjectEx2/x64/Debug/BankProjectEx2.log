@@ -1,0 +1,5 @@
+﻿  BankProjectEx2.cpp
+F:\ابوهدهد\Problem Solving 4\BankExtention2ByTheDoctor\BankProjectEx2\BankProjectEx2.cpp(78,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ابوهدهد\Problem Solving 4\BankExtention2ByTheDoctor\BankProjectEx2\BankProjectEx2.cpp(438,10): warning C4101: 'AdditionalChoic': unreferenced local variable
+F:\ابوهدهد\Problem Solving 4\BankExtention2ByTheDoctor\BankProjectEx2\BankProjectEx2.cpp(445,10): warning C4101: 'AdditionalChoic': unreferenced local variable
+  BankProjectEx2.vcxproj -> F:\ابوهدهد\Problem Solving 4\BankExtention2ByTheDoctor\BankProjectEx2\x64\Debug\BankProjectEx2.exe
